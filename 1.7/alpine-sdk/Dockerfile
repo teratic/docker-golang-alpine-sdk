@@ -1,4 +1,4 @@
-FROM golang:1.7.4-alpine
+FROM golang:1.7-alpine
 
 MAINTAINER Marcos Lois Bermúdez <marcos.lois@teratic.com>
 
